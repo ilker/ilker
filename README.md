@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @ilker
+👋 Hi, I’m @ilker
